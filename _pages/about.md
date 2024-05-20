@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- ![Illustration of light-based perceptual factors](/images/blinding_sunlight_for_robot.png){: .align-right width="350px"} -->
-![Illustration of light-based perceptual factors 2](/images/dark_room_flashlight_robot.png){: .align-right width="250px"}
+![Illustration of light-based perceptual factors 2](/images/dark_room_flashlight_robot.png){: .align-right width="350px"}
 
 
 I am a Computer Science Postdoctoral Fellow in the [RAAS Lab](https://www.raaslab.org) at the University of Maryland, College Park.
