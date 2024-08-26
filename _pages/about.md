@@ -25,4 +25,4 @@ My **long-term goal** is to build teams of robotic systems that can:
 
 For example, a robot could use a flashlight to search for spare tools in a dimly lit room, strengthening its ability to find them (see figure). In another case, a robot could use glare from lights to temporarily blind adversaries to avoid capture, weakening its adversaries' ability to see it.
 
-Presently, I explore how perceptual factors impact downstream robotic tasks such as human-robot interaction, navigation, planning, and scene understanding.
+Presently, I explore how perceptual factors and their sources impact downstream robotic tasks such as human-robot interaction, navigation, planning, and scene understanding.
