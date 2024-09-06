@@ -13,7 +13,7 @@ redirect_from:
 
 I am a Computer Science Postdoctoral Fellow in the [RAAS Lab](https://www.raaslab.org) at the University of Maryland, College Park.
 
-My **research interest** bridges robot (sensor) perception, planning, navigation, uncertainty, and concepts from the field of quality management.
+My **research interest** bridges robot (sensor) perception, planning, decision-making, navigation, uncertainty, and concepts from the field of quality management.
 
 My **long-term goal** is to build teams of robotic systems (agents) that can:
 
