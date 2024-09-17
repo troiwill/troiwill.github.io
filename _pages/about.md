@@ -15,13 +15,15 @@ I am a Computer Science Postdoctoral Fellow in the [RAAS Lab](https://www.raasla
 
 My **research interest** bridges robot (sensor) perception, planning, decision-making, navigation, uncertainty, and concepts from the field of quality management.
 
-My **long-term goal** is to build teams of robotic systems (agents) that can:
+My **long-term goal** is to build teams of robotic systems (agents) that can reason about their perceptual capabilities and plan how to strengthen or weaken such capabilities to accomplish their tasks.
 
+<!--
 1. Reason about their perceptual capabilities.
 
 2. Reason about the perceptual capabilities of others.
 
 3. Plan how to strengthen or weaken such capabilities (i.e., either their perception or the perception of others) to accomplish a task.
+-->
 
 <!-- For example, let us say a robot (the agent) needs to visually search for spare parts (the task) to repair one of its arms. But the parts are in a dimly lit room, which makes it hard to find them. So, the robot uses a flashlight to illuminate the room, strengthening its ability to see the parts (see figure). Through my long-term work, this robot **understands** that the room is *not well-lit*; its cameras *work best in well-lit areas*; light sources such as flashlight *illuminate* areas; and using a light source appropriately *increases its (the robot's) ability* to search for the spare parts in the room. In a much different example, a robot **understands** that creating glare with lights will temporarily blind adversaries, weakening its adversaries' ability to see it and helping it avoid capture. -->
 
