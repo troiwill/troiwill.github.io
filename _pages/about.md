@@ -11,7 +11,7 @@ redirect_from:
 ![Illustration of light-based perceptual factors 2](/images/dark_room_flashlight_robot.png){: .align-right width="350px"}
 
 
-I am a Computer Science Postdoctoral Fellow in the [RAAS Lab](https://www.raaslab.org) at the University of Maryland, College Park.
+I am a President's Postdoctoral Fellow in Computer Science at the University of Maryland, College Park (UMD). At UMD, I work within the [RAAS Lab](https://www.raaslab.org).
 
 My **research interest** bridges robot (sensor) perception, planning, decision-making, navigation, and uncertainty. It also draws inspiration from quality management, aviation, biology, and psychology.
 
