@@ -13,7 +13,7 @@ redirect_from:
 
 I am a Computer Science Postdoctoral Fellow in the [RAAS Lab](https://www.raaslab.org) at the University of Maryland, College Park.
 
-My **research interest** bridges robot (sensor) perception, planning, decision-making, navigation, uncertainty, and concepts from the field of quality management.
+My **research interest** bridges robot (sensor) perception, planning, decision-making, navigation, and uncertainty. It also draws inspiration from quality management, aviation, biology, and psychology.
 
 My **long-term goal** is to build teams of robotic systems (agents) that can reason about their perceptual capabilities and plan how to strengthen or weaken such capabilities to accomplish their tasks. With such reasoning abilities, these robots will learn how to and reason why they adapt their behavior when their surroundings or the context of their mission changes. For example, consider how you would adapt how you play hide-and-seek when others do have not the same perceptual capabilities.
 
